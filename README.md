@@ -23,3 +23,7 @@ To put in a list, my fav langs are:
 
 ### Final considerations
 That's me.
+
+### To the curious, here's my stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyzeul&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
