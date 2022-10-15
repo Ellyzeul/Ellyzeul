@@ -11,7 +11,7 @@ I like to study about, pretty much, anything about code, but recently I've been 
 ### Fav Langs
 I'd study some languages for work, for university and for personal interest, here are some of them:
 
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">/<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/Typescript
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">/<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/TypeScript
   - I know that JS is a must know for every web dev, so it's no surprise to have it here, but I'd like to state that the right way to code JS is to code in TS haha.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
   - The language everyone loves to hate. I like the language, mainly because I work with PHP almost eveyday.
