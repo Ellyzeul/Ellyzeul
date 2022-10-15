@@ -1,24 +1,24 @@
-### Hi People
+## Hi People
 
-My name is Gabriel, but I prefer been called Ellyzeul, my nickname and a pseudonym.<br><br>
-I started studying programming because I didn't knew anything that I could do for a living and programming looked like something that I could enjoy and earn enough to live and to have a family (altough I'm still single, but I'm looking to the future).<br><br>
-I started my studies at São Paulo State University (UNESP) on Computer Science course and what a first sight just looked like something that I could enjoy, now I really love it!<br><br>
-Now I'm on my fifth semester and as the time passes by, I'm studying more and more aside from university.
+My name is Gabriel, but I prefer been called Ellyzeul, my nickname and a pseudonym.
 
-### Interest areas
-I have two principal areas of my interest, that are:
-- Games
-- Web backend
+I don't know if I can call myself passionate about technology, but programming is both my work and my hobby.
 
-But to be honest I study much more backend than game dev...
+## Interest areas
+
+I like to study about, pretty much, anything about code, but recently I've been focusing on the distributed computing and functional programming.
 
 ### Fav Langs
-I know some languages and love the functional ones, because I love functional programming (altough I'm not a specialist at it).<br><br>
-To put in a list, my fav langs are:
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript
+I'd study some languages for work, for university and for personal interest, here are some of them:
+
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">/<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/Typescript
+  - I know that JS is a must know for every web dev, so it's no surprise to have it here, but I'd like to state that the right way to code JS is to code in TS haha.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
+  - The language everyone loves to hate. I like the language, mainly because I work with PHP almost eveyday.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> Elixir
+  - Elixir is a love of mine, I'm really into functional programming, although I'm not a specialist in the language, I plan to be.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C (as my first learned lang, C has a special place in the heart)
+  - For a long time I used to thing that I would rarely need to use C in my daily life, but gladly it turned out I was wrong. C is very versatile, gives you true power and performance, and it's indispensable when it comes to embedded.
 
 
 ### Final considerations
