@@ -11,7 +11,7 @@ Muitas áreas dentro da computação me chamam atenção, mas me foco no desenvo
 ### Linguagens favoritas
 Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aquelas que nos proporcionam uma experiência boa de desenvolvimento, ou simplesmente nos divertimos usando,
 
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">/<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/TypeScript
+- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/TypeScript
   - Uma linguagem cheia de problemas mas inevitável para qualquer dev web. Eu acredito certamente que o TypeScript resolve diversos problemas e a torna uma linguagem boa se utilizar.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
   - Uns não amam, outros odeiam. A linguagem que trouxe diversos males para o mundo, como Wordpress, Magento, ~ScriptCase~. Mas que desde a versão 7 vem se redimindo e se tornou uma linguagem realmente boa na versão 8. Pode ter gerado muito mal, mas trouxe o Laravel a existência, então está perdoada, eu acho.
