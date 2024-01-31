@@ -1,29 +1,28 @@
-## Hi People
+## Olá
 
-My name is Gabriel, but I prefer been called Ellyzeul, my nickname and a pseudonym.
+Me chamo Gabriel (ou Ellyzeul)
 
-I don't know if I can call myself passionate about technology, but programming is both my work and my hobby.
+Não sei se posso me chamar de apaixonado por tecnologia, mas é meu trabalho e meu hobby, buscar sempre estudar algo novo e sair da zona de conforto.
 
-## Interest areas
+## Áreas de interesse
 
-I like to study about, pretty much, anything about code, but recently I've been focusing on the distributed computing and functional programming.
+Muitas áreas dentro da computação me chamam atenção, mas me foco no desenvolvimento web fullstack, por ser meu trabalho, mas em geral bastante sobre programação distribuída e quem sabe não volto meus estudo mais para a área de computação de alto desempenho.
 
-### Fav Langs
-I'd study some languages for work, for university and for personal interest, here are some of them:
+### Linguagens favoritas
+Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aquelas que nos proporcionam uma experiência boa de desenvolvimento, ou simplesmente nos divertimos usando,
 
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">/<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/TypeScript
-  - I know that JS is a must know for every web dev, so it's no surprise to have it here, but I'd like to state that the right way to code JS is to code in TS haha.
+  - Uma linguagem cheia de problemas mas inevitável para qualquer dev web. Eu acredito certamente que o TypeScript resolve diversos problemas e a torna uma linguagem boa se utilizar.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
-  - The language everyone loves to hate. I like the language, mainly because I work with PHP almost eveyday.
+  - Uns não amam, outros odeiam. A linguagem que trouxe diversos males para o mundo, como Wordpress, Magento, ~ScriptCase~. Mas que desde a versão 7 vem se redimindo e se tornou uma linguagem realmente boa na versão 8. Pode ter gerado muito mal, mas trouxe o Laravel a existência, então está perdoada, eu acho.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> Elixir
-  - Elixir is a love of mine, I'm really into functional programming, although I'm not a specialist in the language, I plan to be.
-- <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C (as my first learned lang, C has a special place in the heart)
-  - For a long time I used to thing that I would rarely need to use C in my daily life, but gladly it turned out I was wrong. C is very versatile, gives you true power and performance, and it's indispensable when it comes to embedded.
+  - O paradigma funcional é algo que me chama muita atenção pela sua simplicidade de código e Elixir é uma linguagem que implementa esses conceitos com uma roupagem moderna além de ser robusta. Um plano meu é futuramente estudar Erlang também, mas tenho outras coisas em minha lista.
+- <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C
+  - Como primeira linguage vista na faculdade, tenho um certo apreço por ela, mas não só emocional, afinal a linguagem é realmente boa e está longe de se tornar obsoleta.
 
+### Considerações finais
+É isso aí
 
-### Final considerations
-That's me.
-
-### To the curious, here's my stats
+### Para quem se interessa
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyzeul&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
