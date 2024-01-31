@@ -18,7 +18,7 @@ Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aqu
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> Elixir
   - O paradigma funcional é algo que me chama muita atenção pela sua simplicidade de código e Elixir é uma linguagem que implementa esses conceitos com uma roupagem moderna além de ser robusta. Um plano meu é futuramente estudar Erlang também, mas tenho outras coisas em minha lista.
 - <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C
-  - Como primeira linguage vista na faculdade, tenho um certo apreço por ela, mas não só emocional, afinal a linguagem é realmente boa e está longe de se tornar obsoleta.
+  - Como primeira linguagem vista na faculdade, tenho um certo apreço por ela, mas não só emocional, afinal a linguagem é realmente boa e está longe de se tornar obsoleta.
 
 ### Considerações finais
 É isso aí
