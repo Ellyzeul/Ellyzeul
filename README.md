@@ -6,7 +6,7 @@ Não sei se posso me chamar de apaixonado por tecnologia, mas é meu trabalho e 
 
 ## Áreas de interesse
 
-Muitas áreas dentro da computação me chamam atenção, mas me foco no desenvolvimento web fullstack, por ser meu trabalho, mas em geral bastante sobre programação distribuída e quem sabe não volto meus estudo mais para a área de computação de alto desempenho.
+Muitas áreas dentro da computação me chamam atenção, mas me foco no desenvolvimento web fullstack, por ser meu trabalho, mas em geral, estudo bastante sobre programação distribuída e quem sabe não volto meus estudo mais para a área de computação de alto desempenho.
 
 ### Linguagens favoritas
 Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aquelas que nos proporcionam uma experiência boa de desenvolvimento, ou simplesmente nos divertimos usando,
