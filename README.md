@@ -24,5 +24,5 @@ Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aqu
 É isso aí
 
 ### Para quem se interessa
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyzeul&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyzeul&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
