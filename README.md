@@ -8,21 +8,32 @@ Não sei se posso me chamar de apaixonado por tecnologia, mas é meu trabalho e 
 
 Muitas áreas dentro da computação me chamam atenção, mas me foco no desenvolvimento web fullstack, por ser meu trabalho, mas em geral, estudo bastante sobre programação distribuída e quem sabe não volto meus estudo mais para a área de computação de alto desempenho.
 
-### Linguagens favoritas
-Cada linguagem serve a um propósito e resolve problemas diferentes, mas tem aquelas que nos proporcionam uma experiência boa de desenvolvimento, ou simplesmente nos divertimos usando,
+## Tecnologias utilizadas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="30"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" width="30"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ecto/ecto-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="30"/>
+</div>
 
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> JavaScript/TypeScript
-  - Uma linguagem cheia de problemas mas inevitável para qualquer dev web. Eu acredito certamente que o TypeScript resolve diversos problemas e a torna uma linguagem boa se utilizar.
-- <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
-  - Uns não amam, outros odeiam. A linguagem que trouxe diversos males para o mundo, como Wordpress, Magento, ~ScriptCase~. Mas que desde a versão 7 vem se redimindo e se tornou uma linguagem realmente boa na versão 8. Pode ter gerado muito mal, mas trouxe o Laravel a existência, então está perdoada, eu acho.
-- <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> Elixir
-  - O paradigma funcional é algo que me chama muita atenção pela sua simplicidade de código e Elixir é uma linguagem que implementa esses conceitos com uma roupagem moderna além de ser robusta. Um plano meu é futuramente estudar Erlang também, mas tenho outras coisas em minha lista.
-- <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C
-  - Como primeira linguagem vista na faculdade, tenho um certo apreço por ela, mas não só emocional, afinal a linguagem é realmente boa e está longe de se tornar obsoleta.
-
-### Considerações finais
-É isso aí
 
 ### Para quem se interessa
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ellyzeul&show_icons=true&theme=tokyonight&locale=pt-br)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ellyzeul&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/Ellyzeul)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellyzeul&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/Ellyzeul)
